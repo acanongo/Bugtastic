@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//ac
 int main()
 {
   int age;
